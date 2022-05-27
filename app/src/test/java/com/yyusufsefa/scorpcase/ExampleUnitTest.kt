@@ -1,4 +1,4 @@
-package com.example.scorpcase
+package com.yyusufsefa.scorpcase
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.scorpcase
+package com.yyusufsefa.scorpcase
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
